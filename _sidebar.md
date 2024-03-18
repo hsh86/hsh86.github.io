@@ -9,11 +9,10 @@
   - [spring的条件化装配](spring/【10分钟学Spring】：（三）你了解spring的高级装配吗_条件化装配bean.md) -->
   
 - [首页](/)
-- test
-  * [test1](test/test1)
-    <!-- * [test11](test/t/1) -->
-  * [test2](test/test1)
-- [test](test/test1)
+- java
+  - [反射](java/reflection)
+  - [泛型](java/generics)
 - 面接
   - [自己紹介](about/self-intro)
+  - [自我介绍](about/self-intro-cn)
   
