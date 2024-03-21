@@ -15,4 +15,8 @@
 - 面接
   - [自己紹介](about/self-intro)
   - [自我介绍](about/self-intro-cn)
+- docker
+  - [compose](docker/docker-compose)
+- 备忘录
+  - [memo](memo/memo)
   
