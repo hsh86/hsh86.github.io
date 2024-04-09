@@ -6,7 +6,7 @@
 
 参加有超过15个以上的对日软件开发项目，掌握的开发语言有Java，groovy，shell，cobol，熟悉spring等开源框架。
 
-精通Mysql数据库，有Mysql性能调优经验;
+熟悉Mysql数据库，有Mysql性能调优经验;
 
 
 
