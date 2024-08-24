@@ -1,14 +1,14 @@
-- about
-  - [self-intro-cn.md](./about/self-intro-cn.md)
-  - [self-intro.md](./about/self-intro.md)
-- java
-  - [generics.md](./java/generics.md)
-  - [nio.md](./java/nio.md)
-  - [reflection.md](./java/reflection.md)
-- linux
-  - [cmd.md](./linux/cmd.md)
-- memo
-  - [memo.md](./memo/memo.md)
-- spring
-  - [annotation.md](./spring/annotation.md)
-  - [springboot.md](./spring/springboot.md)
+* about
+  * [self-intro-cn.md](./about/self-intro-cn.md)
+  * [self-intro.md](./about/self-intro.md)
+* java
+  * [generics.md](./java/generics.md)
+  * [nio.md](./java/nio.md)
+  * [reflection.md](./java/reflection.md)
+* linux
+  * [cmd.md](./linux/cmd.md)
+* memo
+  * [memo.md](./memo/memo.md)
+* spring
+  * [annotation.md](./spring/annotation.md)
+  * [springboot.md](./spring/springboot.md)
