@@ -1,3 +1,3 @@
 # 首页
 
-> An awesome project.
+An awesome project.

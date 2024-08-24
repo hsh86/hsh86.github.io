@@ -1,6 +1,3 @@
-* about
-  * [self-intro-cn.md](./about/self-intro-cn.md)
-  * [self-intro.md](./about/self-intro.md)
 * java
   * [generics.md](./java/generics.md)
   * [nio.md](./java/nio.md)
@@ -8,6 +5,8 @@
 * linux
   * [cmd.md](./linux/cmd.md)
 * memo
+  * [self-intro-cn.md](./about/self-intro-cn.md)
+  * [self-intro.md](./about/self-intro.md)
   * [memo.md](./memo/memo.md)
 * spring
   * [annotation.md](./spring/annotation.md)

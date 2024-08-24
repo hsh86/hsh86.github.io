@@ -1,5 +1,3 @@
 * 首页
-  * [首页](first/first)
-  * [首页1](first/first1)
+  * [top](/)
 * [top](/)
-<!-- * [:us:, :uk:](/zh-cn/) -->
