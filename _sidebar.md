@@ -1,8 +1,6 @@
 - about
   - [self-intro-cn.md](./about/self-intro-cn.md)
   - [self-intro.md](./about/self-intro.md)
-- docker
-  - [docker-compose.md](./docker/docker-compose.md)
 - java
   - [generics.md](./java/generics.md)
   - [nio.md](./java/nio.md)
