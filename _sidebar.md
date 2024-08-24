@@ -1,20 +1,22 @@
+- [README.md](./README.md)
 - about
   - [self-intro-cn.md](./about/self-intro-cn.md)
   - [self-intro.md](./about/self-intro.md)
+- [_coverpage.md](./_coverpage.md)
+- [doc1.md](./doc1.md)
 - docker
   - [docker-compose.md](./docker/docker-compose.md)
-- interview
-  - [icewall-required.md](./interview/icewall-required.md)
-  - [icewall-skill.md](./interview/icewall-skill.md)
-  - [knowledge.md](./interview/knowledge.md)
 - java
   - [generics.md](./java/generics.md)
   - [nio.md](./java/nio.md)
   - [reflection.md](./java/reflection.md)
+  - [_sidebar.md](./java/_sidebar.md)
 - linux
   - [cmd.md](./linux/cmd.md)
 - memo
   - [memo.md](./memo/memo.md)
+- [_navbar.md](./_navbar.md)
+- [_sidebar.md](./_sidebar.md)
 - spring
   - [annotation.md](./spring/annotation.md)
   - [springboot.md](./spring/springboot.md)
