@@ -1,7 +1,7 @@
+* js
+  * [基础](./js/memo.md)
 * java
-  * [generics.md](./java/generics.md)
-  * [nio.md](./java/nio.md)
-  * [reflection.md](./java/reflection.md)
+  * [基础](./java/memo.md)
 * linux
   * [cmd.md](./linux/cmd.md)
 * memo
