@@ -6,9 +6,4 @@
   * [cmd.md](./linux/cmd.md)
 * memo
   * [日文自我介绍](./about/日文自我介绍.md)
-  * [self-intro-cn.md](./about/self-intro-cn.md)
   * [self-intro.md](./about/self-intro.md)
-  * [memo.md](./about/memo.md)
-* spring
-  * [annotation.md](./spring/annotation.md)
-  * [springboot.md](./spring/springboot.md)
