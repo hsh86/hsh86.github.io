@@ -5,7 +5,7 @@
 * linux
   * [cmd.md](./linux/cmd.md)
 * memo
-  * [self-intro1.md](./about/self-intro1.md)
+  * [日文自我介绍](./about/日文自我介绍.md)
   * [self-intro-cn.md](./about/self-intro-cn.md)
   * [self-intro.md](./about/self-intro.md)
   * [memo.md](./about/memo.md)
