@@ -5,9 +5,10 @@
 * linux
   * [cmd.md](./linux/cmd.md)
 * memo
+  * [self-intro1.md](./about/self-intro1.md)
   * [self-intro-cn.md](./about/self-intro-cn.md)
   * [self-intro.md](./about/self-intro.md)
-  * [memo.md](./memo/memo.md)
+  * [memo.md](./about/memo.md)
 * spring
   * [annotation.md](./spring/annotation.md)
   * [springboot.md](./spring/springboot.md)
